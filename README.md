@@ -1,8 +1,8 @@
-# EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
+# EX.NO.09        create a project for forecasting using ARIMA model 
 ### Date: 
 
 ### AIM:
-To Create a project on Time series analysis on weather forecasting using ARIMA model in  Python and compare with other models.
+To Create a project on Time series analysis on  forecasting using ARIMA model in  Python and compare with other models.
 ### ALGORITHM:
 1. Explore the dataset of weather 
 2. Check for stationarity of time series time series plot
